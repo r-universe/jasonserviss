@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ClusterSignificance"]
+	path = ClusterSignificance
+	url = https://github.com/jasonserviss/clustersignificance
+	shallow = true
+	registered = true
